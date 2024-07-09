@@ -1,6 +1,6 @@
 layers:
   default:
-  - {t: ']', h: Gui}
+  - ']'
   - Q
   - W
   - E
@@ -35,13 +35,13 @@ layers:
   - ','
   - .
   - /
-  - {t: \, h: Alt}
+  - {t: /, h: Alt}
   - {t: ↹, h: raise}
   - {t: ␣, h: Shift}
   - {t: ⏎, h: lower}
   - {t: Esc, h: lower}
-  - {t: ⌫, h: Shift}
-  - {t: ⌦, h: raise}
+  - {t: BACKSPACE, h: Shift}
+  - {t: BACKSPACE, h: raise}
   lower:
   - {t: F1, h: Gui}
   - F2
