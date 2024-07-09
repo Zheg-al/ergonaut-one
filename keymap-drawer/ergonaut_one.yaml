@@ -41,7 +41,7 @@ layers:
   - {t: ⏎, h: lower}
   - {t: Esc, h: lower}
   - {t: BACKSPACE, h: Shift}
-  - {t: BACKSPACE, h: raise}
+  - {t: ⌦, h: raise}
   lower:
   - {t: F1, h: Gui}
   - F2
